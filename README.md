@@ -17,7 +17,7 @@ This command-line tool allows you to manage WordPress sites using Docker and doc
    cd Wordpress-Docker-Install
    ```
 
-3. Run the CLI as the superuser (root) using the following command:
+3. Run the CLI as the superuser (root) using the following command to avoid permission issues:
 
    ```shell
    sudo su
